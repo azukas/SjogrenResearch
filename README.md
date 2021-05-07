@@ -1,3 +1,3 @@
 # SjogrenResearch
 
-# Initial repository for captureing NLP research into Pubmed Sjogren abstracts
+# Initial repository for capturing NLP research into Pubmed Sjogren abstracts
